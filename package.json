@@ -1,0 +1,12 @@
+{
+  "name": "grupo4-yaml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests configured yet' && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
